@@ -1,0 +1,9 @@
+html{background-color:#eb2e00;font-family: 'Roboto Slab', serif;}
+
+div{display:block;background-color:#1F2020;width:80%;margin:auto;border:2px solid white;border-radius:20px;padding-left:10px;padding-right:10px;}
+h2{color:white;font-size:25px;text-align:center;user-select:none;}
+form{padding-left:20px;padding-right:20px;}
+label{color:#F3D060;}
+input{width:80%;}
+button{display:block;width:70%;margin:auto;border:none;border-radius:20px;background-color:#A5282C;margin-bottom:20px;color:white;font-size:20px;cursor:pointer;outline:none;}
+button:hover{background-color:#EE7762;}
